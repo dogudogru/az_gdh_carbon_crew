@@ -1,4 +1,3 @@
-from tkinter import E
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -21,4 +20,4 @@ try:
     exploration = ExplorationSection()
     outputs.append(exploration)
 except Exception as e:
-    print(E)
+    print(e)
