@@ -1,3 +1,6 @@
 streamlit
+pycaret
+xgboost
 pandas
 plotly
+click==8
